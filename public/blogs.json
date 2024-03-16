@@ -1,0 +1,39 @@
+[
+    {
+      "title": "Exploring the Wonders of Nature",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co/qkFdPrY/Life-in-Germany-Welcome-Program-Testimonials-Reviews-5.jpg",
+      "cover_img": "https://i.ibb.co/pPfhZ9g/mohamed-nohassi-odx-B5o-IG-i-A-unsplash.jpg",
+      "post_date": "Mar 16 (4 days ago)",
+      "reading_time": 10,
+      "hashtags": "#nature #adventure #travel"
+    },
+    {
+      "title": "Cooking Adventures: A Culinary Journey",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/gynN5wG/Life-in-Germany-Welcome-Program-Testimonials-Reviews-4.jpg",
+      "cover_img": "https://i.ibb.co/g9DN33b/pexels-anna-shvets-12679998.jpg",
+      "post_date": "Mar 15 (5 days ago)",
+      "reading_time": 8,
+      "hashtags": "#cooking #food #recipes"
+    },
+    {
+      "title": "Travel Diaries: Adventures Around the Globe",
+      "author": "Emily Brown",
+      "author_img": "https://i.ibb.co/58TY7Fd/theresa-photo.jpg",
+      "cover_img": "https://i.ibb.co/8B5rdMY/dt.jpg",
+      "post_date": "Mar 14 (6 days ago)",
+      "reading_time": 12,
+      "hashtags": "#travel #adventure #explore"
+    },
+    {
+      "title": "Tech Trends: Innovations Shaping the Future",
+      "author": "David Wilson",
+      "author_img": "https://i.ibb.co/BCpSP4C/Life-in-Germany-Welcome-Program-Testimonials-Reviews-3.jpg",
+      "cover_img": "https://i.ibb.co/F0v5Yf6/screenshoteasy-53.png",
+      "post_date": "Mar 13 (1 week ago)",
+      "reading_time": 15,
+      "hashtags": "#technology #innovation #future"
+    }
+  ]
+  
